@@ -1,2 +1,2 @@
 # simple-maven-project-with-tests
-test
+test project for dependency check jenkins tool
